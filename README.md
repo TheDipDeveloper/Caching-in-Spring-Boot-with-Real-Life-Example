@@ -2,6 +2,7 @@
 
 ## **Cache**
 Cache is any temporary storage location that lies between the application and persistence database or a third-party application that stores the most frequently or recently accessed data so that future requests for that data can be served faster.
+<img width="936" height="548" alt="image" src="https://github.com/user-attachments/assets/7699c677-8cd4-4364-b98e-9ac8346b565a" />
 
 There are mainly 4 types of Caching :
 
