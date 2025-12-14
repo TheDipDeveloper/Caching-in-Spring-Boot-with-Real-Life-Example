@@ -12,7 +12,7 @@
 	<artifactId>caching</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>caching</name>
-	<description>Demo project for Redis Cache Integration with Spring Boot</description>
+	<description>Demo project for casching in Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -38,10 +38,7 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-redis</artifactId>
-		</dependency>
+
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
